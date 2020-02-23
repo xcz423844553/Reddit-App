@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RedditApp</string>
+
+    <string name="label_username">Reddit Username</string>
+    <string name="label_password">Reddit Password</string>
+
+</resources>
